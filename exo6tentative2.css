@@ -16,34 +16,34 @@
   background-color: #E74C3C;
   width: 34%;
   height: 50px;
-    float: left;
+  float: left;
 }
 
 .orange{
   background-color: #E67E22;
   width: 33%;
   height: 25px;
-    float: left;
+  float: left;
 }
 
 .gris{
   background-color: #95A5A6;
   width: 33%;
   height: 25px;
-    float: left;
+  float: left;
 }
 
 .jaune{
   background-color: #F39C12;
   width: 22%;
   height: 25px;
-    float: left;
+  float: left;
 }
 .turquoise{
   background-color: #16A085;
   width: 22%;
   height: 25px;
-    float: left;
+  float: left;
 }
 
 .marron{
@@ -57,5 +57,5 @@
   background-color: #2C3E50;
   width: 100%;
   height: 70px;
-    float: left;
+  float: left;
 }
